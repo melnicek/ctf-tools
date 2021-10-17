@@ -10,4 +10,4 @@ exiv2 $FILE
 
 file $FILE
 
-echo 'Now use steghide for images'
+echo 'Now use steghide/stegsolve for images'
